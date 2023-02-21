@@ -1,0 +1,13 @@
+export const LOGIN = 'LOGIN'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_ERROR = 'LOGIN_ERROR'
+
+export const LOGOUT = 'LOGOUT'
+
+export const UPDATE_SESSION = 'UPDATE_SESSION'
+
+export const CREATE_USER = 'CREATE_USER'
+export const CREATE_USER_SUCCESS = 'CREATE_USER_SUCCESS'
+export const CREATE_USER_ERROR = 'CREATE_USER_ERROR'
+
+export const CLEAR_SIGNUP_ERROR = 'CLEAR_ERRORS'
